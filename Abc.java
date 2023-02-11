@@ -8,7 +8,4 @@ class Abc
     System.out.print(c);
   }
   public static void main(String[] args)
-  {
-    
-  }
-}
+  
