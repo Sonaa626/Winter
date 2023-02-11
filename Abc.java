@@ -7,4 +7,8 @@ class Abc
     int c=a+b;
     System.out.print(c);
   }
+  public static void main(String[] args)
+  {
+    
+  }
 }
